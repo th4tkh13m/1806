@@ -24,6 +24,7 @@ lecture, along with links and suggestions for further reading.  It is
 useful study guide.  (You can also look at the analogous summaries from [Fall 2018](https://github.com/stevengj/1806/blob/fall18/summaries.md).)
 
 ## Lecture 1 (Jan 31)
+
 * [course overview/syllabus](https://docs.google.com/presentation/d/1ivbV1nr67XfasBdXezZF9UWILzDoQtQev8vSqRKBfu0/edit?usp=sharing)
 * [pset 0](psets/pset0.ipynb): due **Friday Feb 4 at 11am** (submit your solutions on Canvas).
 * video: see *recordings* link above.
